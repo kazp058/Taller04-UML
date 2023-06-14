@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T20:36:18.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="xMj1JpZgDjIi7s0fhz07" version="21.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-14T20:42:24.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="kR3oATPZ3wISozJ0BY1y" version="21.4.0" type="github" pages="2">
   <diagram name="Diagrama de clases" id="QBbL7el1UoL6svfnOJvB">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,19 +25,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EkwNHCearNUyfbGUAOeU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="10" width="370" height="560" as="geometry" />
+          <mxGeometry x="40" y="10" width="430" height="560" as="geometry" />
         </mxCell>
         <mxCell id="EkwNHCearNUyfbGUAOeU-2" value="Diagrama de casos de uso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="340" y="-130" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EkwNHCearNUyfbGUAOeU-3" value="Creación de curso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="10" width="200" height="30" as="geometry" />
+        <mxCell id="EkwNHCearNUyfbGUAOeU-3" value="Sistema para centro de aprendizaje" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="10" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EkwNHCearNUyfbGUAOeU-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EkwNHCearNUyfbGUAOeU-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="200" width="60" height="120" as="geometry" />
+        <mxCell id="EkwNHCearNUyfbGUAOeU-5" value="Administradores" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="90" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EkwNHCearNUyfbGUAOeU-9" value="Crear rol de usuario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkwNHCearNUyfbGUAOeU-10" value="Gestionar rol de usuario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EkwNHCearNUyfbGUAOeU-11" value="Asignar permisos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
